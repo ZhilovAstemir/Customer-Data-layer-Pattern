@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Customer.Datalayer.Tests
+build_property.ProjectDir = D:\ANKO\anko-repository-pattern\Customer.Datalayer\tests\Customer.Datalayer.Tests\

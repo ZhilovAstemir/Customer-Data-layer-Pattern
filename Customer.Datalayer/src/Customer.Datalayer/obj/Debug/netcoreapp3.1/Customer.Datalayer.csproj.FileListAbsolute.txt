@@ -1,0 +1,10 @@
+D:\ANKO\anko-repository-pattern\Customer.Datalayer\src\Customer.Datalayer\bin\Debug\netcoreapp3.1\Customer.Datalayer.deps.json
+D:\ANKO\anko-repository-pattern\Customer.Datalayer\src\Customer.Datalayer\bin\Debug\netcoreapp3.1\Customer.Datalayer.dll
+D:\ANKO\anko-repository-pattern\Customer.Datalayer\src\Customer.Datalayer\bin\Debug\netcoreapp3.1\Customer.Datalayer.pdb
+D:\ANKO\anko-repository-pattern\Customer.Datalayer\src\Customer.Datalayer\obj\Debug\netcoreapp3.1\Customer.Datalayer.csproj.AssemblyReference.cache
+D:\ANKO\anko-repository-pattern\Customer.Datalayer\src\Customer.Datalayer\obj\Debug\netcoreapp3.1\Customer.Datalayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ANKO\anko-repository-pattern\Customer.Datalayer\src\Customer.Datalayer\obj\Debug\netcoreapp3.1\Customer.Datalayer.AssemblyInfoInputs.cache
+D:\ANKO\anko-repository-pattern\Customer.Datalayer\src\Customer.Datalayer\obj\Debug\netcoreapp3.1\Customer.Datalayer.AssemblyInfo.cs
+D:\ANKO\anko-repository-pattern\Customer.Datalayer\src\Customer.Datalayer\obj\Debug\netcoreapp3.1\Customer.Datalayer.csproj.CoreCompileInputs.cache
+D:\ANKO\anko-repository-pattern\Customer.Datalayer\src\Customer.Datalayer\obj\Debug\netcoreapp3.1\Customer.Datalayer.dll
+D:\ANKO\anko-repository-pattern\Customer.Datalayer\src\Customer.Datalayer\obj\Debug\netcoreapp3.1\Customer.Datalayer.pdb
